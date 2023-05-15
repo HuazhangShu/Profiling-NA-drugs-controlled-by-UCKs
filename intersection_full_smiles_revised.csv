@@ -1,0 +1,132 @@
+CAS,Name,Formula,SMILES
+154361-50-9,Capecitabine (Xeloda),C15H22FN3O6,CCCCCOC(=O)NC1=NC(=O)N(C=C1F)[C@@H]2O[C@H](C)[C@@H](O)[C@H]2O
+4291-63-8,Cladribine,C10H12ClN5O3,Nc1nc(Cl)nc2n(cnc12)[C@H]3C[C@H](O)[C@@H](CO)O3
+2353-33-5,Decitabine,C8H12N4O4,NC1=NC(=O)N(C=N1)C2CC(O)C(CO)O2
+51-21-8,Adrucil (Fluorouracil),C4H3FN2O2,FC1=CNC(=O)NC1=O
+121032-29-9,Nelarabine (Arranon),C11H15N5O5,COc1nc(N)nc2n(cnc12)C3O[C@H](CO)[C@@H](O)[C@@H]3O
+123318-82-1,Clofarabine,C10H11ClFN5O3,Nc1nc(Cl)nc2n(cnc12)[C@@H]3O[C@H](CO)[C@@H](O)[C@@H]3F
+75607-67-9,Fludarabine Phosphate (Fludara),C10H13FN5O7P,Nc1nc(F)nc2n(cnc12)C3OC(CO[P](O)(O)=O)C(O)C3O
+127-07-1,Hydroxyurea (Cytodrox),CH4N2O2,NC(=O)NO
+68-19-9,Vitamin B12,C63H88CoN14O14P,CC1=CC2=C(C=C1C)N(C=N2)C3C(C(C(O3)CO)OP(=O)([O-])OC(C)CNC(=O)CCC4(C(C5C6(C(C(C(=N6)C(=C7C(C(C(=N7)C=C8C(C(C(=N8)C(=C4[N-]5)C)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[C-]#N.[Co+3]
+73963-72-1,Cilostazol,C20H27N5O2,O=C1CCc2cc(OCCCCc3nnnn3C4CCCCC4)ccc2N1
+50-91-9,Floxuridine,C9H11FN2O5,OC[C@H]1O[C@H](C[C@@H]1O)N2C=C(F)C(=O)NC2=O
+17902-23-7,"Tegafur (FT-207, NSC 148958)",C8H9FN2O3,FC1=CN(C2CCCO2)C(=O)NC1=O
+202138-50-9,Tenofovir Disoproxil Fumarate,C23H34N5O14P,CC(C)OC(=O)OCO[P](=O)(CO[C@H](C)Cn1cnc2c(N)ncnc12)OCOC(=O)OC(C)C.OC(=O)\C=C\C(O)=O
+147127-20-6,Tenofovir (Viread),C9H14N5O4P,C[C@H](Cn1cnc2c(N)ncnc12)OC[P](O)(O)=O
+21679-14-1,Fludarabine (Fludara),C10H12FN5O4,Nc1nc(F)nc2n(cnc12)[C@@H]3O[C@H](CO)[C@@H](O)[C@@H]3O
+128794-94-5,Mycophenolate mofetil (CellCept),C23H31NO7,COc1c(C)c2COC(=O)c2c(O)c1C\C=C(C)\CCC(=O)OCCN3CCOCC3
+141-90-2,2-Thiouracil,C4H4N2OS,O=C1NC(=S)NC=C1
+315-30-0,Allopurinol (Zyloprim),C5H4N4O,O=C1N=CN=C2NNC=C12
+17795-21-0,Allopurinol Sodium (Aloprim),C5H4N4NaO+,[Na+].[O-]c1ncnc2[nH]ncc12
+58-61-7,Adenosine (Adenocard),C10H13N5O4,Nc1ncnc2n(cnc12)C3OC(CO)C(O)C3O
+3424-98-4,"Telbivudine (Sebivo, Tyzeka)",C10H14N2O5,CC1=CN([C@@H]2C[C@@H](O)[C@H](CO)O2)C(=O)NC1=O
+2022-85-7,Flucytosine (Ancobon),C4H4FN3O,NC1=C(F)C=NC(=O)N1
+95058-81-4,Gemcitabine (Gemzar),C9H11F2N3O4,NC1=NC(=O)N(C=C1)[C@@H]2O[C@H](CO)[C@@H](O)C2(F)F
+69655-05-6,Didanosine (Videx),C10H12N4O3,OC[C@@H]1CC[C@@H](O1)n2cnc3C(=O)N=CNc23
+134678-17-4,Lamivudine (Epivir),C8H11N3O3S,NC1=NC(=O)N(C=C1)[C@@H]2CS[C@H](CO)O2
+142340-99-6,"Adefovir Dipivoxil (Preveon, Hepsera)",C20H32N5O8P,CC(C)(C)C(=O)OCO[P](=O)(COCCn1cnc2c(N)ncnc12)OCOC(=O)C(C)(C)C
+7481-89-2,Zalcitabine,C9H13N3O3,NC1=NC(=O)N(C=C1)[C@H]2CC[C@@H](CO)O2
+446-86-6,"Azathioprine (Azasan, Imuran)",C9H7N7O2S,Cn1cnc(c1Sc2ncnc3nc[nH]c23)[N+]([O-])=O
+129618-40-2,Nevirapine (Viramune),C15H14N4O,Cc1ccnc2N(C3CC3)c4ncccc4C(=O)Nc12
+154-42-7,Thioguanine,C5H5N5S,NC1=NC(=S)c2[nH]cnc2N1
+70-00-8,Trifluridine (Viroptic),C10H11F3N2O5,OCC1OC(CC1O)N2C=C(C(=O)NC2=O)C(F)(F)F
+320-67-2,Azacitidine (Vidaza),C8H12N4O5,NC1=NC(=O)N(C=N1)[C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O
+5536-17-4,Vidarabine (Vira-A),C10H13N5O4,Nc1ncnc2n(cnc12)C3OC(CO)C(O)C3O
+59277-89-3 ,Acyclovir (Aciclovir),C8H11N5O3,NC1=NC(=O)c2ncn(COCCO)c2N1
+1956/4/2,Methylthiouracil,C5H6N2OS,CC1=CC(=O)NC(=S)N1
+51-52-5,Propylthiouracil,C7H10N2OS,CCCC1=CC(=O)NC(=S)N1
+124832-27-5 ,Valaciclovir HCl,C13H21ClN6O4,[Cl-].CC(C)[C@H](N)C(=O)OCCOCn1cnc2C(=O)N=C(N)Nc12.[H+]
+525-79-1,Kinetin (6-Furfuryladenine),C10H9N5O,C(Nc1ncnc2nc[nH]c12)c3occc3
+104227-87-4,Famciclovir (Famvir),C14H19N5O4,CC(=O)OCC(CCn1cnc2cnc(N)nc12)COC(C)=O
+36791-04-5,Ribavirin (Copegus),C8H12N4O5,NC(=O)c1ncn(n1)[C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O
+2922-28-3 ,Adenine hydrochloride,C5H6ClN5,[H+].[Cl-].Nc1ncnc2nc[nH]c12
+82410-32-0,Ganciclovir,C9H13N5O4,NC1=NC(=O)c2ncn(COC(CO)CO)c2N1
+58-96-8,Uridine,C9H12N2O6,OCC1OC(C(O)C1O)N2C=CC(=O)NC2=O
+30516-87-1,Zidovudine (Retrovir),C10H13N5O4,CC1=CN([C@H]2C[C@H](N=[N+]=[N-])[C@@H](CO)O2)C(=O)NC1=O
+65-46-3,Cytidine,C9H13N3O5,NC1=NC(=O)N(C=C1)C2OC(CO)C(O)C2O
+3094/9/5,Doxifluridine,C9H11FN2O5,CC1C(C(C(O1)N2C=C(C(=O)NC2=O)F)O)O
+209216-23-9,Entecavir hydrate,C12H17N5O4,O.NC1=NC(=O)c2ncn(C3C[C@H](O)[C@@H](CO)C3=C)c2N1
+10212-25-6,Cyclocytidine HCl,C9H12ClN3O4,[Cl-].OC[C@H]1O[C@@H]2[C@@H](OC3=NC(=N)C=CN23)[C@@H]1O.[H+]
+58-63-9,Inosine,C10H12N4O5,OCC1OC(C(O)C1O)n2cnc3C(=O)N=CNc23
+269055-15-4,Etravirine (TMC125),C20H15BrN6O,Cc1cc(cc(C)c1Oc2nc(Nc3ccc(cc3)C#N)nc(N)c2Br)C#N
+118-00-3,Guanosine,C10H13N5O5,NC1=NC(=O)c2ncn(C3OC(CO)C(O)C3O)c2N1
+163252-36-6,Clevudine (Levovir),C10H13FN2O5,CC1=CN([C@H]2O[C@@H](CO)[C@H](O)[C@H]2F)C(=O)NC1=O
+175865-59-5,Valganciclovir Hydrochloride,C14H25ClN6O5,[Cl-].CC(C)[C@H](N)C(=O)OCC(CO)OCn1cnc2C(=O)N=C(N)Nc12.[H+]
+39809-25-1,Penciclovir,C10H15N5O3,NC1=NC(=O)c2ncn(CCC(CO)CO)c2N1
+66-22-8,Uracil,C4H4N2O2,O=C1NC=CC(=O)N1
+143491-57-0,Emtricitabine,C8H10FN3O3S,NC1=NC(=O)N(C=C1F)[C@@H]2CS[C@H](CO)O2
+54-42-2,Idoxuridin,C9H11IN2O5,OCC1OC(CC1O)N2C=C(I)C(=O)NC2=O
+1190307-88-0,Sofosbuvir(PSI-7977),C22H29FN3O9P,CC(C)OC(=O)C(C)NP(=O)(OCC1C(C(C(O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3
+6112-76-1,6-Mercaptopurine (6-MP) Monohydrate,C5H6N4OS,O.S=C1N=CNc2nc[nH]c12
+97540-22-2,Ademetionine disulfate tosylate ,C22H34N6O16S4,C[S+](CC[C@H](N)C(O)=O)C[C@H]1O[C@H]([C@H](O)[C@@H]1O)n2cnc3c(N)ncnc23.Cc4ccc(cc4)[S]([O-])(=O)=O.O[S]([O-])(=O)=O.[O-][S]([O-])(=O)=O
+154598-52-4,Efavirenz,C14H9ClF3NO2,FC(F)(F)[C@]1(OC(=O)Nc2ccc(Cl)cc12)C#CC3CC3
+3056-17-5,Stavudine,C10H12N2O4,CC1=CN([C@@H]2O[C@H](CO)C=C2)C(=O)NC1=O
+69-89-6,"2,6-Dihydroxypurine",C5H4N4O2,O=C1NC(=O)c2[nH]cnc2N1
+526-18-1,Osalmid,C13H11NO3,Oc1ccc(NC(=O)c2ccccc2O)cc1
+50-89-5,Thymidine,C10H14N2O5,CC1=CN(C2CC(O)C(CO)O2)C(=O)NC1=O
+69304-47-8,Brivudine,C11H13BrN2O5,OC[C@H]1O[C@H](C[C@@H]1O)N2C=C(\C=C\Br)C(=O)NC2=O
+13422-55-4,Methylcobalamin,C63H91CoN13O14P,[CH3-].CC1=CC2=C(C=C1C)N(C=N2)C3C(C(C(O3)CO)OP(=O)([O-])OC(C)CNC(=O)CCC4(C(C5C6(C(C(C(=C(C7=NC(=CC8=NC(=C(C4=N5)C)C(C8(C)C)CCC(=O)N)C(C7(C)CC(=O)N)CCC(=O)N)C)[N-]6)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[Co+3]
+71-30-7,Cytosine,C4H5N3O,NC1=CC=NC(=O)N1
+36703-88-5,Isoprinosine,C52H78N10O17,CC(O)CN(C)C.CC(O)CN(C)C.CC(O)CN(C)C.CC(=O)Nc1ccc(cc1)C(O)=O.CC(=O)Nc2ccc(cc2)C(O)=O.CC(=O)Nc3ccc(cc3)C(O)=O.OC[C@H]4O[C@H]([C@H](O)[C@@H]4O)n5cnc6C(=O)N=CNc56
+68-94-0,Hypoxanthine,C5H4N4O,O=C1N=CNc2nc[nH]c12
+122111-03-9,Gemcitabine HCl (Gemzar),C9H12ClF2N3O4,[Cl-].NC1=NC(=O)N(C=C1)[C@@H]2O[C@H](CO)[C@@H](O)C2(F)F.[H+]
+50924-49-7,Mizoribine (Bredinin),C9H13N3O6,NC(=O)c1ncn(C2OC(CO)C(O)C2O)c1O
+188062-50-2,Abacavir sulfate,C28H38N12O6S,Nc1nc(NC2CC2)c3ncn([C@@H]4C[C@H](CO)C=C4)c3n1.Nc5nc(NC6CC6)c7ncn([C@@H]8C[C@H](CO)C=C8)c7n5.O[S](O)(=O)=O
+147-94-4,Cytarabine,C9H13N3O5,NC1=NC(=O)N(C=C1)[C@@H]2O[C@H](CO)[C@@H](O)[C@@H]2O
+321-30-2,Adenine sulfate,C10H12N10O4S,Nc1ncnc2nc[nH]c12.Nc3ncnc4nc[nH]c34.O[S](O)(=O)=O
+987-65-5,ATP (Adenosine-Triphosphate),C10H14N5Na2O13P3,[Na+].[Na+].Nc1ncnc2n(cnc12)[C@@H]3O[C@H](CO[P](O)(=O)O[P]([O-])(=O)O[P](O)([O-])=O)[C@@H](O)[C@H]3O
+53-84-9,NAD+,C21H27N7O14P2,NC(=O)c1ccc[n+](c1)C2OC(CO[P]([O-])(=O)O[P](O)(=O)OCC3OC(C(O)C3O)n4cnc5c(N)ncnc45)C(O)C2O
+16980-89-5,Dibutyryl-cAMP (Bucladesine),C18H23N5NaO8P,CCCC(=O)NC1=C2C(=NC=N1)N(C=N2)C3C(C4C(O3)COP(=O)(O4)[O-])OC(=O)CCC.[Na+]
+500287-72-9,Rilpivirine,C22H18N6,Cc1cc(\C=C\C#N)cc(C)c1Nc2ccnc(Nc3ccc(cc3)C#N)n2
+236392-56-6,Triapine,C7H9N5S,NC(=S)N\N=C\c1ncccc1N
+58-58-2,Puromycin 2HCl,C22H31Cl2N7O5,[Cl-].[Cl-].COc1ccc(C[C@H](N)C(=O)NC2[C@@H](CO)O[C@H]([C@@H]2O)n3cnc4c(ncnc34)N(C)C)cc1.[H+].[H+]
+379270-37-8,Tenofovir Alafenamide (GS-7340),C21H29N6O5P,CC(C)OC(=O)C(C)NP(=O)(COC(C)CN1C=NC2=C(N=CN=C21)N)OC3=CC=CC=C3
+733030-01-8,TAS-102,C29H34Cl2F6N8O12,nan
+33818-15-4,Citicoline sodium,C14H25N4NaO11P2,[Na+].C[N+](C)(C)CCO[P]([O-])(=O)O[P]([O-])(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N2C=CC(=NC2=O)N
+163706-36-3,Cangrelor Tetrasodium,C17H21Cl2F3N5Na4O12P3S2,[Na+].[Na+].[Na+].[Na+].CSCCNc1nc(SCCC(F)(F)F)nc2n(cnc12)[C@@H]3O[C@H](CO[P]([O-])(=O)O[P]([O-])(=O)C(Cl)(Cl)[P]([O-])([O-])=O)[C@@H](O)[C@H]3O
+29908-03-0,Ademetionine,C15H22N6O5S,C[S+](CC[C@H](N)C([O-])=O)C[C@H]1O[C@H]([C@H](O)[C@@H]1O)n2cnc3c(N)ncnc23
+18422-05-4,Adenosine 5'-monophosphate monohydrate,C10H16N5O8P,O.Nc1ncnc2n(cnc12)[C@@H]3O[C@H](CO[P](O)(O)=O)[C@@H](O)[C@H]3O
+1132935-63-7,Dasabuvir,C26H27N3O5S,CC(C)(C)C1=CC(=CC(=C1OC)C2=CC3=C(C=C2)C=C(C=C3)NS(=O)(=O)C)N4C=CC(=O)NC4=O
+136470-78-5,Abacavir,C14H18N6O,Nc1nc(NC2CC2)c3ncn([C@@H]4C[C@H](CO)C=C4)c3n1
+142217-69-4,Entecavir,C12H15N5O3,NC1=NC(=O)c2ncn([C@H]3C[C@H](O)[C@@H](CO)C3=C)c2N1
+24356-66-9,Vidarabine monohydrate,C10H15N5O5,O.Nc1ncnc2n(cnc12)[C@@H]3O[C@H](CO)[C@@H](O)[C@@H]3O
+987-78-0,Citicholine,C14H26N4O11P2,C[N+](C)(C)CCO[P]([O-])(=O)O[P](O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N2C=CC(=NC2=O)N
+19817-92-6 ,"UTP, Trisodium Salt",C9H12N2Na3O15P3,O[C@H]1[C@@H](O)[C@@H](O[C@@H]1CO[P]([O-])(=O)O[P]([O-])(=O)O[P]([O-])([O-])=O)N2C=CC(=O)NC2=O
+69-74-9,Cytarabine hydrochloride,C9H14ClN3O5,[Cl-].NC1=NC(=O)N(C=C1)[C@@H]2O[C@H](CO)[C@@H](O)[C@@H]2O.[H+]
+313348-27-5  ,Regadenoson,C15H18N8O5,CNC(=O)c1cnn(c1)c2nc(N)c3ncn([C@@H]4O[C@H](CO)[C@@H](O)[C@H]4O)c3n2
+107910-75-8,Ganciclovir sodium,C9H12N5NaO4,[Na+].Nc1nc([O-])c2ncn(COC(CO)CO)c2n1
+34369-07-8,Adenosine disodium triphosphate,C10H14N5Na2O13P3R,Nc1ncnc2n(cnc12)[C@@H]3O[C@H](CO[P]([O-])(=O)O[P]([O-])(=O)O[P]([O-])([O-])=O)[C@@H](O)[C@H]3O
+58-64-0,ADP,C10H15N5O10P2,Nc1ncnc2n(cnc12)C3OC(CO[P](O)(=O)O[P](O)(O)=O)C(O)C3O
+961-07-9,2'-Deoxyguanosine,C10H13N5O4,NC1=NC(=O)c2ncn(C3CC(O)C(CO)O3)c2N1
+951-78-0,2'-deoxyuridine,C9H12N2O5,OCC1OC(CC1O)N2C=CC(=O)NC2=O
+16373-93-6,2'-Deoxyadenosine monohydrate,C10H15N5O4,Nc1ncnc2n(cnc12)C3CC(O)C(CO)O3
+65-71-4,Thymine,C5H6N2O2,CC1=CNC(=O)NC1=O
+58-97-9,Uridine 5'-monophosphate,C9H13N2O9P,OC1C(O)C(OC1CO[P](O)(O)=O)N2C=CC(=O)NC2=O
+147221-93-0,Delavirdine (mesylate),C23H32N6O6S2,CC(C)Nc1cccnc1N2CCN(CC2)C(=O)c3[nH]c4ccc(N[S](C)(=O)=O)cc4c3.C[S](O)(=O)=O
+4105-38-8,uridine triacetate,C15H18N2O9,CC(=O)OC[C@H]1O[C@H]([C@H](OC(C)=O)[C@@H]1OC(C)=O)N2C=CC(=O)NC2=O
+1338225-97-0,Doravirine (MK-1439),C17H11ClF3N5O3,CN1C(=NNC1=O)CN2C=CC(=C(C2=O)OC3=CC(=CC(=C3)C#N)Cl)C(F)(F)F
+211427-08-6,Diquafosol Tetrasodium,C18H22N4Na4O23P4,[Na+].[Na+].[Na+].[Na+].O[C@H]1[C@@H](O)[C@@H](O[C@@H]1CO[P]([O-])(=O)O[P]([O-])(=O)O[P]([O-])(=O)O[P]([O-])(=O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)N3C=CC(=O)NC3=O)N4C=CC(=O)NC4=O
+441785-25-7,Besifovir,C10H14N5O4P,C1CC1(CN2C=NC3=CN=C(N=C32)N)OCP(=O)(O)O
+25526-93-6,3'-Fluoro-3'-deoxythymidine (Alovudine),C10H13FN2O4,CC1=CN([C@H]2C[C@H](F)[C@@H](CO)O2)C(=O)NC1=O
+73-24-5,Adenine,C5H5N5,Nc1ncnc2nc[nH]c12
+53910-25-1,Pentostatin,C11H16N4O4,OC[C@H]1O[C@H](C[C@@H]1O)n2cnc3[C@H](O)CN=CNc23
+206184-49-8,Tenofovir hydrate,C9H16N5O5P,CC(CN1C=NC2=C(N=CN=C21)N)OCP(=O)(O)O.O
+379270-38-9,Tenofovir alafenamide fumarate,C25H33N6O9P,CC(C)OC(=O)C(C)NP(=O)(COC(C)CN1C=NC2=C(N=CN=C21)N)OC3=CC=CC=C3.C(=CC(=O)O)C(=O)O
+56-65-5,ATP,C10H16N5O13P3,Nc1ncnc2n(cnc12)C3OC(CO[P](O)(=O)O[P](O)(=O)O[P](O)(O)=O)C(O)C3O
+58-60-6,Puromycin aminonucleoside,C12H18N6O3,CN(C)c1ncnc2n(cnc12)C3OC(CO)C(N)C3O
+1392275-56-7,Tenofovir alafenamide hemifumarate,C46H62N12O14P2,CC(C)OC(=O)C(C)NP(=O)(COC(C)CN1C=NC2=C(N=CN=C21)N)OC3=CC=CC=C3.CC(C)OC(=O)C(C)NP(=O)(COC(C)CN1C=NC2=C(N=CN=C21)N)OC3=CC=CC=C3.C(=CC(=O)O)C(=O)O
+201341-05-1,Tenofovir Disoproxil,C19H30N5O10P,CC(C)OC(=O)OCO[P](=O)(CO[C@H](C)Cn1cnc2c(N)ncnc12)OCOC(=O)OC(C)C
+1809249-37-3,Remdesivir (GS-5734),C27H35N6O8P,CCC(CC)COC(=O)C(C)NP(=O)(OCC1C(C(C(O1)(C#N)C2=CC=C3N2N=CN=C3N)O)O)OC4=CC=CC=C4
+15176-29-1,Edoxudine,C11H16N2O5,CCC1=CN(C(=O)NC1=O)C2CC(C(O2)CO)O
+2349386-89-4,Molnupiravir,C13H19N3O7,CC(C)C(=O)OCC1C(C(C(O1)N2C=CC(=NC2=O)NO)O)O
+3258/2/4,EIDD-1931,C9H13N3O6,C1=CN(C(=O)N=C1NO)C2C(C(C(O2)CO)O)O
+,Ado,,C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)O)O)N
+,Guo,,C1=NC2=C(N1C3C(C(C(O3)CO)O)O)N=C(NC2=O)N
+,Cyd,,C1=CN(C(=O)N=C1N)C2C(C(C(O2)CO)O)O
+,Urd,,C1=CN(C(=O)NC1=O)C2C(C(C(O2)CO)O)O
+,dAdo,,C1C(C(OC1N2C=NC3=C(N=CN=C32)N)CO)O
+,dGuo,,C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)CO)O
+,dCyd,,C1C(C(OC1N2C=CC(=NC2=O)N)CO)O
+,dUrd,,C1C(C(OC1N2C=CC(=O)NC2=O)CO)O
+,dThd,,CC1=CN(C(=O)NC1=O)C2CC(C(O2)CO)O
+,dIno,,C1C(C(OC1N2C=NC3=C2N=CNC3=O)CO)O
