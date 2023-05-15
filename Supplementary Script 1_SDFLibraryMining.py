@@ -3,7 +3,7 @@ Author: Huazhang Shu
 Date: Jan., 19th, 2023
 
 This module reads .sdf files and split the library into each molecule with four attributes:  (1) name, 
-(2) formula, (3) CAS, (4) coordinates. Further processing was done by checking the intersection between to 
+(2) formula, (3) CAS, (4) coordinates. Further processing was done by checking the intersection between two 
 libraries. Note that the library itself may lack some information of some molecules. 
 
 The intersection was defined by searching for common CAS numbers existing in both two libraries.
